@@ -219,7 +219,11 @@ Après chaque déploiement dans les environnements de staging et production, des
 
 # Aperçu du Site
 
+### 1. Déploiment en Environnement de Prod
+
 ![project](https://github.com/omarvm001/Devops-projet-02-GITLAB/blob/main/images/site-prod.png)
+
+### 2. Déploiment en Environnement de Staging
 
 ![project](https://github.com/omarvm001/Devops-projet-02-GITLAB/blob/main/images/site-staging.png)
 
